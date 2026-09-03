@@ -1,5 +1,5 @@
-# Gidder å oppdatere informasjon om meg selv enda
-## Dere får heller step-by-step liste for hvordan man lager markdown fil å pusher til repoen på github
+# Gidder ikke å oppdatere profilen med informasjon om meg selv enda
+## Deler heller ut step-by-step guide for hvordan man lager en markdown fil å pusher den til repoen på github
 
 ## Fra terminalen på pcen:
 1. -> Brukte først cd 'Onedrive/Skrivebord' (For å komme til skrivebordet på pcen, som forsåvidt er lagret i onedrive)
